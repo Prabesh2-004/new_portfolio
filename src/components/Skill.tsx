@@ -35,7 +35,7 @@ export default function Skills() {
     },
     {
       head: "Learning",
-      items: ["WebSockets", "Hardhat", "Solidity"],
+      items: ["WebSockets", "Hardhat", "Solidity", "WebRTC"],
     },
   ];
   return (
