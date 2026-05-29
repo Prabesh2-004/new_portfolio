@@ -1,3 +1,5 @@
+import About from "@/components/About";
+import Contact from "@/components/Contact";
 import HeroSection from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import Projects from "@/components/Project";
@@ -11,5 +13,7 @@ export default function HomePage() {
         <HeroSection />
         <Projects />
         <Skills />
+        <About />
+        <Contact />
     </div>
 }

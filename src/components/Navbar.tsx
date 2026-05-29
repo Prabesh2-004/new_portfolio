@@ -7,10 +7,10 @@ import { DropdownMenu, DropdownMenuContent, DropdownMenuGroup, DropdownMenuItem,
 import Dropdown from "./DropdownMenu";
 
 const links = [
-  { href: "", title: "Home" },
-  { href: "projects", title: "Projects" },
-  { href: "about-me", title: "About Me" },
-  { href: "contacts", title: "Contacts" },
+  { href: "#skills", title: "Skills" },
+  { href: "#projects", title: "Projects" },
+  { href: "#about-me", title: "About Me" },
+  { href: "#contact", title: "Contact" },
 ];
 
 const Navbar = () => {

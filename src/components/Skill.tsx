@@ -39,7 +39,7 @@ export default function Skills() {
     },
   ];
   return (
-    <div className="text-white px-6 pl-20 sm:px-20 font-mono mt-10">
+    <div className="text-white px-6 pl-20 sm:px-20 font-mono mt-10" id="skills">
       <div className="flex items-center gap-10 ">
         <h1 className="text-2xl font-bold">
           <span className="text-[#c778df]">#</span>Skills

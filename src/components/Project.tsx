@@ -28,7 +28,7 @@ const projects = [
 
 export default function Projects() {
   return (
-    <div className="text-white px-6 pl-20 sm:px-20 font-mono mt-10">
+    <div className="text-white px-6 pl-20 sm:px-20 font-mono mt-10" id="projects">
       <div className="flex items-center justify-between gap-10 ">
         <Link href={"/projects"} className="text-2xl font-bold">
           <span className="text-[#c778df]">#</span>Projects
