@@ -28,11 +28,6 @@ const Navbar = () => {
         ))}
       </ul>  
       <Link href={"mailto:mrprabeshlc@gmail.com"} className="py-2.5 hidden md:block px-5 rounded bg-secondary text-primary">Work with Me</Link>
-
-      {/* Mobile View */}
-          <div className="md:hidden">
-            <Dropdown />
-          </div>
     </nav>
   );
 };
