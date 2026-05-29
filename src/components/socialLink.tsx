@@ -8,9 +8,9 @@ const SocialLink = () => {
 
       <span className="mt-2 absolute top-[-60] right-[-80] text-white">
         <div className="rotate-270 flex flex-col gap-5">
-          <Link href={'/'}><FaYoutube size={24} /></Link>
-          <Link href={'/'}><FaGithub size={24} /> </Link>
-          <Link href={'/'}><FaLinkedin size={24} /></Link>
+          <Link href={'https://www.youtube.com/@60s_MV'}><FaYoutube size={24} /></Link>
+          <Link href={'https://github.com/Prabesh2-004'}><FaGithub size={24} /> </Link>
+          <Link href={'https://linkedin.com/in/prabesh-lamichhane-55819a375'}><FaLinkedin size={24} /></Link>
         </div>
       </span>
     </div>

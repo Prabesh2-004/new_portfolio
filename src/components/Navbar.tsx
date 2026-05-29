@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { Button } from "./ui/button";
 import { Menu, Target } from "lucide-react";
-import { DropdownMenu, DropdownMenuContent, DropdownMenuGroup, DropdownMenuItem, DropdownMenuTrigger } from "./ui/dropdown-menu";
 import Dropdown from "./DropdownMenu";
 
 const links = [
