@@ -4,7 +4,7 @@ export default function Skills() {
   const skills = [
     {
       head: "Programming Languages",
-      items: ["JavaScript", "TypeScript", "Python", "SQL"],
+      items: ["JavaScript", "TypeScript", "Java", "SQL"],
     },
     {
       head: "Frameworks & Libraries",
@@ -35,7 +35,7 @@ export default function Skills() {
     },
     {
       head: "Learning",
-      items: ["WebSockets", "Hardhat", "Solidity", "WebRTC"],
+      items: ["WebSockets", "Spring Boot", "Nginx", "WebRTC", "Apache Kafka"],
     },
   ];
   return (

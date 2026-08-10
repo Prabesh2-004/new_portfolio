@@ -15,43 +15,16 @@ export default function About() {
           <p className="px-5 py-10">Hello, I&apos;m Prabesh Lamichhane!</p>
           <div className="max-w-[800px] w-full mx-5 flex flex-col gap-5 px-2">
             <p>
-              Passionate and self-driven full-stack developer with hands-on
-              experience building responsive, secure, and scalable web
-              applications using modern technologies such as Next.js,
-              TypeScript, React, and Node.js. I enjoy transforming ideas into
-              real-world digital solutions with clean UI/UX design and efficient
-              backend architecture.
+              Passionate and self-driven software engineer with hands-on experience building responsive, secure, and scalable applications using modern technologies such as Java, Next.js, TypeScript, React, and Node.js. I enjoy transforming complex ideas into reliable digital solutions with clean UI/UX design, robust backend architecture, and strong computational foundations.
             </p>
             <p>
-              Over the years, I have worked on multiple projects including
-              eCommerce platforms, AI-powered applications, authentication
-              systems with role-based access control (RBAC), and modern web
-              applications focused on performance and user experience. I am
-              highly interested in software engineering, problem solving, and
-              continuously improving my development skills by exploring new
-              tools and technologies.
+              Over the years, I have worked on diverse projects including eCommerce platforms, AI-powered tools, authentication systems with role-based access control (RBAC), and high-performance web applications focused on optimal user experience. I am deeply interested in software engineering principles, system design, and algorithmic problem-solving.
             </p>
             <p>
-              Currently, I am expanding my knowledge in Ethereum blockchain and
-              Web3 development while also exploring AI/ML integration in modern
-              applications. I enjoy learning new technologies, building
-              innovative products, and challenging myself with projects that
-              create meaningful impact. My goal is to grow as a developer by
-              building scalable, user-focused applications and contributing to
-              modern digital solutions that combine creativity, technology, and
-              innovation.
+              Currently, I am expanding my technical expertise by deepening my knowledge in Java and Data Structures & Algorithms (DSA) while exploring practical AI/ML integration in modern systems. Driven by continuous learning and software craftsmanship, my goal is to build scalable, high-impact software solutions that combine technical precision, performance, and innovation.
             </p>
           </div>
         </div>
-        <video
-          src="vide-bg2.0.mp4"
-          width={500}
-          height={300}
-          className="rounded-xl hidden lg:block"
-          autoPlay
-          loop
-        ></video>
-        {/* <img src="frieren2.0.jpg" alt="loop" /> */}
       </div>
     </div>
   );
