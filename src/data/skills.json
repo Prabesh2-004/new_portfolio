@@ -1,0 +1,30 @@
+{
+  "title": "Toolbox",
+  "highlights": [
+    "Spring Boot",
+    "Kotlin",
+    "Java",
+    "PostgreSQL",
+    "REST APIs",
+    "Docker",
+    "Next.js",
+    "TypeScript",
+    "Redis"
+  ],
+  "groups": [
+    { "name": "Backend", "items": ["Spring Boot", "Java", "Kotlin", "REST APIs"] },
+    { "name": "Android", "items": ["Kotlin", "Jetpack Compose"] },
+    { "name": "Web", "items": ["Next.js", "React", "TypeScript", "JavaScript", "Tailwind CSS"] },
+    { "name": "Databases", "items": ["PostgreSQL", "MongoDB", "Redis", "SQL"] },
+    {
+      "name": "Tools & platforms",
+      "items": ["Git & GitHub", "Docker", "Supabase", "Linux", "CI/CD", "Figma", "Jira"]
+    },
+    {
+      "name": "Currently learning",
+      "items": ["WebSockets", "Nginx", "WebRTC", "Apache Kafka"],
+      "learning": true
+    }
+  ],
+  "learningNote": "Dashed outline = currently learning, not yet production experience."
+}

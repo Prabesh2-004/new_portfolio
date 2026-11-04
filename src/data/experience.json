@@ -1,0 +1,13 @@
+{
+  "title": "Where I work",
+  "items": [
+    {
+      "role": "Backend Developer",
+      "company": "Navo Cloud Solution",
+      "start": "2025",
+      "end": null,
+      "description": "Building backend services and REST APIs with Spring Boot and Kotlin.",
+      "tech": ["Spring Boot", "Kotlin"]
+    }
+  ]
+}

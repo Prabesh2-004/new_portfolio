@@ -1,0 +1,26 @@
+{
+  "name": "Prabesh Lamichhane",
+  "shortName": "Prabesh",
+  "initials": "PL",
+  "role": "Backend Developer",
+  "location": {
+    "full": "Basantapur, Kathmandu",
+    "short": "Kathmandu, Nepal"
+  },
+  "languages": ["English", "Nepali"],
+  "headline": {
+    "before": "I build the ",
+    "highlight": "APIs",
+    "after": " behind the app."
+  },
+  "summary": "Backend developer working with Spring Boot and Kotlin. I also build Android apps in Kotlin and full-stack websites with Next.js.",
+  "resume": {
+    "label": "Résumé",
+    "href": "/Resume.pdf"
+  },
+  "stack": {
+    "backend": ["Spring Boot", "Kotlin", "PostgreSQL"],
+    "android": ["Kotlin", "Jetpack Compose"],
+    "web": ["Next.js", "TypeScript"]
+  }
+}

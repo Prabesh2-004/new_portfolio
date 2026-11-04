@@ -1,0 +1,20 @@
+{
+  "title": "Education & certification",
+  "items": [
+    {
+      "kind": "Degree",
+      "title": "BCS (Hons)",
+      "shortInstitution": "IIMS",
+      "institution": "IIMS College",
+      "location": "Naxal, Kathmandu",
+      "start": "Sep 2024",
+      "end": "2028"
+    },
+    {
+      "kind": "Certificate",
+      "title": "Full Stack Web Development",
+      "institution": "Mindrisers Institute of Technology",
+      "end": "2025"
+    }
+  ]
+}

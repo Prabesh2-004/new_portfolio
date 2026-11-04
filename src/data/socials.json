@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "github",
+      "label": "GitHub",
+      "handle": "@Prabesh2-004",
+      "url": "https://github.com/Prabesh2-004",
+      "showIn": ["hero", "contact", "footer"]
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "handle": "Prabesh Lamichhane",
+      "url": "https://www.linkedin.com/in/prabesh-lamichhane-55819a375",
+      "showIn": ["hero", "contact", "footer"]
+    },
+    {
+      "id": "x",
+      "label": "X",
+      "handle": "@Prabesh_2004",
+      "url": "https://x.com/Prabesh_2004",
+      "showIn": ["footer"]
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "handle": "@60s_MV",
+      "url": "https://www.youtube.com/@60s_MV",
+      "showIn": ["hero", "footer"]
+    }
+  ]
+}
