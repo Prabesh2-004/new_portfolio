@@ -1,0 +1,19 @@
+{
+  "title": "Let's build\nsomething.",
+  "description": "A backend to build, an app idea, or a question about something I've made. Email is the quickest way to reach me.",
+  "email": "mrprabeshlc@gmail.com",
+  "channels": [
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "value": "+977 982-907-7624",
+      "href": "https://wa.me/9779829077624?text=Hello!"
+    },
+    {
+      "id": "phone",
+      "label": "Call",
+      "value": "+977 976-634-9064",
+      "href": "tel:+9779766349064"
+    }
+  ]
+}

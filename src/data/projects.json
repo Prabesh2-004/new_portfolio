@@ -1,0 +1,37 @@
+{
+  "title": "Selected projects",
+  "items": [
+    {
+      "slug": "polyhue",
+      "name": "Polyhue: Color Sort Puzzle",
+      "featured": true,
+      "status": "Closed testing · Google Play",
+      "description": "An offline water-sort puzzle game for Android. The game rules, level solver and generator are a pure Kotlin module with unit tests; the UI is Jetpack Compose with Room for saved progress. Levels are built in a separate Next.js editor.",
+      "tech": ["Kotlin", "Jetpack Compose", "Room", "Next.js"],
+      "images": [
+        { "src": "/projects/polyhue/home.webp", "alt": "Polyhue home screen" },
+        { "src": "/projects/polyhue/gameplay.webp", "alt": "Polyhue gameplay on level 20" },
+        { "src": "/projects/polyhue/levels-dark.webp", "alt": "Polyhue level select in dark mode" }
+      ],
+      "links": {
+        "store": "",
+        "source": "",
+        "live": ""
+      },
+      "pendingLinkLabel": "Google Play · link not available"
+    },
+    {
+      "slug": "pos-inventory",
+      "name": "POS & Inventory Management System",
+      "featured": false,
+      "description": "A point-of-sale platform where user list there product and stocks to manage like sales, profits and more using just simple button clicks.",
+      "tech": ["Next.js", "Spring Boot", "PostgreSQL"],
+      "images": [],
+      "links": {
+        "source": "",
+        "live": "https://navo.com.np"
+      },
+      "pendingLinkLabel": "Link not available"
+    }
+  ]
+}

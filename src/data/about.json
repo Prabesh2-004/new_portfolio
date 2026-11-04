@@ -1,0 +1,36 @@
+{
+  "title": "Backend first. Full-stack when the project needs it.",
+  "paragraphs": [
+    "I'm a backend developer at Navo Cloud Solution, where I build services and REST APIs with Spring Boot and Kotlin. I'm also studying for a BCS (Hons) at IIMS College in Kathmandu.",
+    "When a product needs more than an API, I build the rest too: Android apps in Kotlin and web frontends in Next.js."
+  ],
+  "focus": {
+    "label": "Main focus",
+    "title": "Backend APIs",
+    "description": "REST APIs with Spring Boot: authentication, role-based access, and clean PostgreSQL schemas.",
+    "endpoints": [
+      { "method": "POST", "path": "/auth/login", "note": "JWT" },
+      { "method": "GET", "path": "/orders/{id}", "note": "200" },
+      { "method": "PATCH", "path": "/users/{id}/roles", "note": "RBAC" }
+    ],
+    "tech": ["Spring Boot", "Kotlin", "Java", "PostgreSQL", "Docker"]
+  },
+  "areas": [
+    {
+      "id": "android",
+      "label": "Also",
+      "title": "Android apps",
+      "description": "Native apps in Kotlin with Jetpack Compose.",
+      "image": {
+        "src": "/projects/polyhue/levels-dark.webp",
+        "alt": "Polyhue level select screen in dark mode"
+      }
+    },
+    {
+      "id": "web",
+      "label": "Also",
+      "title": "Websites & web apps",
+      "description": "Full-stack builds in Next.js, React and TypeScript, like this site."
+    }
+  ]
+}
